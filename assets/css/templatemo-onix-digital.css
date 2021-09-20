@@ -338,9 +338,12 @@ font-weight: bolder;
       /* border-radius: 25px; */
   }
   
-.modal1 {
-  height: 40vw;
-}
+  .modal1{
+    width: 100vw;
+    margin-top: 50vw;
+    margin-left: 20vw;
+    height: 50vw;
+  }
 
   .winner{
     /* width:900px; */
@@ -350,11 +353,7 @@ font-weight: bolder;
     /* width:900px; */
     margin-left: 800px;
   }
-  .modal1{
-    width: 100vw;
-    margin-top: 50rem;
-    margin-left: 20rem;
-  }
+
   .modal-btn1{
   
     /* margin-top: 8; */
